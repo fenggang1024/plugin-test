@@ -1,0 +1,6 @@
+<block wx:if="{{$taroCompReady}}">
+    <view>
+        <list-item wx:key="name" wx:for="{{loopArray2}}" wx:for-item="item" wx:for-index="_anonIdx2" compid="{{item.$compid__2}}"></list-item>
+        <at-radio compid="{{$compid__3}}"></at-radio>
+    </view>
+</block>

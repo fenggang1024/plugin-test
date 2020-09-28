@@ -1,0 +1,6 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index"><text>Hello world!</text>
+        <avatar></avatar>
+        <navigator url="plugin://myPlugin/list">Go to pages/list!</navigator>
+    </view>
+</block>

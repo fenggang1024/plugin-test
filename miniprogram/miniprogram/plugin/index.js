@@ -1,0 +1,1 @@
+require("./runtime"),require("./vendors"),module.exports=(wx.webpackJsonp=wx.webpackJsonp||[]).push([[4],{"6":function(e,n,o){"use strict";function sayHello(){console.log("Hello plugin!")}o.r(n),o.d(n,"sayHello",(function(){return sayHello})),o.d(n,"answer",(function(){return r}));var r=42}},[[6,0]]]);
